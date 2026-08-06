@@ -6,21 +6,11 @@
 
 <img src="./assets/hud-boot.svg" width="780" alt="SMRITI boot sequence"/>
 
-<img src="./assets/hud-ident.svg" width="780" alt="SMRITI ident"/>
+<img src="./assets/hud-ident.png" width="780" alt="SMRITI ident"/>
 
 <img src="./assets/hud-feed.svg" width="780" alt="LIVE FEED"/>
 
 <img src="./assets/hud-status.svg" width="780" alt="SMRITI status"/>
-
-<br/>
-
-<a href="https://sr-portfolioo.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ONLINE-00f0ff?style=for-the-badge&labelColor=05080f" alt="portfolio"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/AGENT-FOCUSING-ffb800?style=for-the-badge&labelColor=05080f" alt="status"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=SumithRaj05&style=for-the-badge&color=a78bfa&label=SMRITI+HITS" alt="views"/>
 
 <img src="./assets/hud-divider.svg" width="720" alt="divider"/>
 
