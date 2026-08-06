@@ -1,10 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="48" viewBox="0 0 800 48">
-  <defs>
-    <filter id="glow"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  </defs>
   <rect width="800" height="48" fill="#05080f"/>
-  <line x1="0" y1="24" x2="260" y2="24" stroke="#00f0ff44" stroke-width="1"/>
-  <line x1="540" y1="24" x2="800" y2="24" stroke="#00f0ff44" stroke-width="1"/>
-  <rect x="270" y="8" width="260" height="32" rx="2" fill="#071018" stroke="#00f0ff" stroke-width="1" filter="url(#glow)"/>
-  <text x="400" y="29" text-anchor="middle" fill="#67e8f9" font-family="Consolas, monospace" font-size="13" letter-spacing="3">TELEMETRY GRID</text>
+  <line x1="0" y1="24" x2="260" y2="24" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1"/>
+  <line x1="540" y1="24" x2="800" y2="24" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="270" y="8" width="260" height="32" rx="2" fill="#071018" stroke="#00f0ff" stroke-width="1"/>
+  <text x="400" y="29" text-anchor="middle" fill="#67e8f9" font-family="Consolas,monospace" font-size="13" letter-spacing="3">TELEMETRY GRID</text>
 </svg>
