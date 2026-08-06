@@ -1,27 +1,16 @@
 <!--
   SumithRaj05 — Tony Stark / JARVIS HUD profile
-  Repo must be named: SumithRaj05/SumithRaj05
 -->
 
 <div align="center">
 
-```text
-   _____                 _ __  __     ____        _   
-  / ___/__  ______ ___  (_) /_/ /_   / __ \____ _(_) 
-  \__ \/ / / / __ `__ \/ / __/ __ \ / /_/ / __ `/ / 
- ___/ / /_/ / / / / / / / /_/ / / // _, _/ /_/ / /  
-/____/\__,_/_/ /_/ /_/_/\__/_/ /_//_/ |_|\__,_\_/  
-                                                                 
-         >>> BOOTING QA MISSION CONTROL... OK
-         >>> LINUX KERNEL: online
-         >>> BUG DETECTOR: overcaffeinated
-```
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/hud-boot.svg" width="780" alt="HUD boot sequence"/>
 
-<img src="./assets/arc-reactor.svg" width="120" alt="arc reactor"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/hud-ident.svg" width="780" alt="HUD ident"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=Jarvis%2C+run+diagnostics.;QA+Engineer+%40+Ruckus;I+break+things+so+you+don't+have+to.;AI+%2B+Linux+%2B+caffeine+%3D+me" alt="typing"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/hud-feed.svg" width="780" alt="LIVE FEED"/>
 
-<img src="./assets/hud-status.svg" width="780" alt="HUD status"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/hud-status.svg" width="780" alt="HUD status"/>
 
 <br/>
 
@@ -33,9 +22,9 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=SumithRaj05&style=for-the-badge&color=a78bfa&label=HUD+HITS" alt="views"/>
 
-<img src="./assets/hud-divider.svg" width="720" alt="divider"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/hud-divider.svg" width="720" alt="divider"/>
 
-<img src="./assets/label-telemetry.svg" width="780" alt="telemetry"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/label-telemetry.svg" width="780" alt="telemetry"/>
 
 <table>
   <tr>
@@ -53,57 +42,44 @@
   </tr>
 </table>
 
-<img src="./assets/hud-divider.svg" width="720" alt="divider"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/hud-divider.svg" width="720" alt="divider"/>
 
-<img src="./assets/label-ai.svg" width="780" alt="AI bay"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/label-ai.svg" width="780" alt="AI bay"/>
 
-<img src="./assets/hud-ai.svg" width="780" alt="AI arsenal"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/hud-ai.svg" width="780" alt="AI arsenal"/>
 
 <br/>
 
 <a href="https://github.com/SumithRaj05/Rag_Ollama">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumithRaj05&repo=Rag_Ollama&title_color=a78bfa&icon_color=00f0ff&text_color=cde7ff&bg_color=05080f&hide_border=true" alt="Rag_Ollama"/>
+  <img src="https://img.shields.io/badge/Rag_Ollama-ACTIVE-a78bfa?style=for-the-badge&labelColor=05080f&logo=ollama&logoColor=00f0ff" alt="Rag_Ollama"/>
 </a>
+&nbsp;
 <a href="https://github.com/SumithRaj05/Custom-RAG-Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumithRaj05&repo=Custom-RAG-Model&title_color=a78bfa&icon_color=00f0ff&text_color=cde7ff&bg_color=05080f&hide_border=true" alt="Custom-RAG-Model"/>
+  <img src="https://img.shields.io/badge/Custom_RAG-ACTIVE-a78bfa?style=for-the-badge&labelColor=05080f&logo=pytorch&logoColor=00f0ff" alt="Custom-RAG"/>
 </a>
 
-<img src="./assets/hud-divider.svg" width="720" alt="divider"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/hud-divider.svg" width="720" alt="divider"/>
 
-<img src="./assets/label-projects.svg" width="780" alt="projects"/>
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/label-projects.svg" width="780" alt="projects"/>
+
+<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/main/assets/hud-projects.svg" width="780" alt="projects HUD"/>
+
+<br/>
 
 <a href="https://github.com/SumithRaj05/ESP32_REST_API_Sensor_Server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumithRaj05&repo=ESP32_REST_API_Sensor_Server&title_color=00f0ff&icon_color=ffb800&text_color=cde7ff&bg_color=05080f&hide_border=true" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/ESP32_Sensor-C++-00f0ff?style=for-the-badge&labelColor=05080f&logo=cplusplus&logoColor=00f0ff" alt="ESP32"/>
 </a>
+&nbsp;
 <a href="https://github.com/SumithRaj05/Registration-System-CPP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumithRaj05&repo=Registration-System-CPP&title_color=00f0ff&icon_color=ffb800&text_color=cde7ff&bg_color=05080f&hide_border=true" alt="Registration"/>
+  <img src="https://img.shields.io/badge/Registration_CPP-C++-00f0ff?style=for-the-badge&labelColor=05080f&logo=cplusplus&logoColor=00f0ff" alt="Registration"/>
 </a>
 <br/>
 <a href="https://github.com/SumithRaj05/Desktop-UI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumithRaj05&repo=Desktop-UI&title_color=00f0ff&icon_color=ffb800&text_color=cde7ff&bg_color=05080f&hide_border=true" alt="Desktop-UI"/>
+  <img src="https://img.shields.io/badge/Desktop_UI-React-ffb800?style=for-the-badge&labelColor=05080f&logo=react&logoColor=ffb800" alt="Desktop-UI"/>
 </a>
+&nbsp;
 <a href="https://github.com/SumithRaj05/Authentication-CRUD-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumithRaj05&repo=Authentication-CRUD-api&title_color=00f0ff&icon_color=ffb800&text_color=cde7ff&bg_color=05080f&hide_border=true" alt="Auth API"/>
+  <img src="https://img.shields.io/badge/Auth_CRUD_API-Node-ffb800?style=for-the-badge&labelColor=05080f&logo=nodedotjs&logoColor=ffb800" alt="Auth API"/>
 </a>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=linux,cpp,js,nodejs,react,python,tensorflow,pytorch,html,css,git,bash&theme=dark" alt="stack"/>
-
-<img src="./assets/hud-divider.svg" width="720" alt="divider"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumithRaj05&bg_color=05080f&color=00f0ff&line=ffb800&point=a78bfa&area=true&hide_border=true&custom_title=ENERGY%20OUTPUT%20%2F%20COMMITS" width="780" alt="activity"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/SumithRaj05/SumithRaj05/output/github-contribution-grid-snake-dark.svg" width="780" alt="snake"/>
-
-<br/>
-
-<img src="./assets/hud-comms.svg" width="780" alt="comms"/>
-
-<br/>
-
-`// JARVIS: all systems nominal · may contain caffeine & segfaults`
 
 </div>

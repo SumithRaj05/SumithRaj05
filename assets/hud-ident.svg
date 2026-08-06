@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <radialGradient id="core" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e0ffff"/>
+      <stop offset="45%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#003344" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#050a12"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="798" height="198" rx="8" fill="url(#panel)" stroke="#00f0ff" stroke-width="1.5"/>
+  <rect x="12" y="12" width="8" height="8" fill="#00f0ff" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="28" y="22" fill="#00f0ff" font-family="Consolas, monospace" font-size="11" letter-spacing="2">HUD // IDENT</text>
+
+  <!-- arc reactor -->
+  <g transform="translate(100,115)">
+    <circle r="58" fill="none" stroke="#00f0ff" stroke-width="1" opacity="0.25"/>
+    <circle r="48" fill="none" stroke="#00f0ff" stroke-width="2" filter="url(#glow)" stroke-dasharray="10 7">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="36" fill="none" stroke="#ffb800" stroke-width="1.5" opacity="0.75" stroke-dasharray="5 8">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="24" fill="url(#core)" filter="url(#glow)">
+      <animate attributeName="r" values="22;26;22" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="9" fill="#061018" stroke="#00f0ff" stroke-width="2"/>
+    <circle r="4" fill="#00f0ff" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- identity modules -->
+  <g font-family="Consolas, monospace">
+    <rect x="190" y="42" width="280" height="58" rx="4" fill="#061020" stroke="#00f0ff55"/>
+    <text x="330" y="66" text-anchor="middle" fill="#7dd3fc" font-size="10">CALLSIGN</text>
+    <text x="330" y="88" text-anchor="middle" fill="#00f0ff" font-size="16" font-weight="bold" filter="url(#glow)">SUMITHRAJ05</text>
+
+    <rect x="490" y="42" width="280" height="58" rx="4" fill="#061020" stroke="#ffb80055"/>
+    <text x="630" y="66" text-anchor="middle" fill="#fcd34d" font-size="10">CLEARANCE</text>
+    <text x="630" y="88" text-anchor="middle" fill="#ffb800" font-size="15" font-weight="bold" filter="url(#glow)">QA @ RUCKUS</text>
+
+    <rect x="190" y="116" width="280" height="58" rx="4" fill="#061020" stroke="#a78bfa55"/>
+    <text x="330" y="140" text-anchor="middle" fill="#c4b5fd" font-size="10">PRIMARY DIRECTIVE</text>
+    <text x="330" y="162" text-anchor="middle" fill="#c4b5fd" font-size="13" font-weight="bold">BREAK THINGS FIRST</text>
+
+    <rect x="490" y="116" width="280" height="58" rx="4" fill="#061020" stroke="#34d39955"/>
+    <text x="630" y="140" text-anchor="middle" fill="#6ee7b7" font-size="10">STACK VIBE</text>
+    <text x="630" y="162" text-anchor="middle" fill="#34d399" font-size="13" font-weight="bold">AI · LINUX · CAFFEINE</text>
+  </g>
+</svg>

@@ -9,31 +9,27 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <rect x="1" y="1" width="798" height="118" rx="8" fill="url(#panel)" stroke="#00f0ff" stroke-width="1.5" opacity="0.95"/>
+  <rect x="1" y="1" width="798" height="118" rx="8" fill="url(#panel)" stroke="#00f0ff" stroke-width="1.5"/>
   <rect x="12" y="12" width="8" height="8" fill="#00f0ff" filter="url(#glow)">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
   <text x="28" y="22" fill="#00f0ff" font-family="Consolas, monospace" font-size="11" letter-spacing="2">HUD // STATUS</text>
-  <!-- modules -->
+
   <g font-family="Consolas, monospace" font-size="13">
-    <rect x="30" y="40" width="160" height="55" rx="4" fill="#061020" stroke="#00f0ff55"/>
-    <text x="110" y="62" text-anchor="middle" fill="#7dd3fc" font-size="10">QA CORE</text>
-    <text x="110" y="82" text-anchor="middle" fill="#00f0ff" font-weight="bold" filter="url(#glow)">ONLINE</text>
+    <rect x="30" y="40" width="170" height="55" rx="4" fill="#061020" stroke="#00f0ff55"/>
+    <text x="115" y="62" text-anchor="middle" fill="#7dd3fc" font-size="10">QA CORE</text>
+    <text x="115" y="82" text-anchor="middle" fill="#00f0ff" font-weight="bold" filter="url(#glow)">ONLINE</text>
 
-    <rect x="210" y="40" width="160" height="55" rx="4" fill="#061020" stroke="#ffb80055"/>
-    <text x="290" y="62" text-anchor="middle" fill="#fcd34d" font-size="10">LINUX</text>
-    <text x="290" y="82" text-anchor="middle" fill="#ffb800" font-weight="bold" filter="url(#glow)">KERNEL OK</text>
+    <rect x="220" y="40" width="170" height="55" rx="4" fill="#061020" stroke="#ffb80055"/>
+    <text x="305" y="62" text-anchor="middle" fill="#fcd34d" font-size="10">LINUX</text>
+    <text x="305" y="82" text-anchor="middle" fill="#ffb800" font-weight="bold" filter="url(#glow)">KERNEL OK</text>
 
-    <rect x="390" y="40" width="160" height="55" rx="4" fill="#061020" stroke="#a78bfa55"/>
-    <text x="470" y="62" text-anchor="middle" fill="#c4b5fd" font-size="10">AI MODULE</text>
-    <text x="470" y="82" text-anchor="middle" fill="#a78bfa" font-weight="bold" filter="url(#glow)">RAG HOT</text>
+    <rect x="410" y="40" width="170" height="55" rx="4" fill="#061020" stroke="#a78bfa55"/>
+    <text x="495" y="62" text-anchor="middle" fill="#c4b5fd" font-size="10">AI MODULE</text>
+    <text x="495" y="82" text-anchor="middle" fill="#a78bfa" font-weight="bold" filter="url(#glow)">RAG HOT</text>
 
-    <rect x="570" y="40" width="200" height="55" rx="4" fill="#061020" stroke="#34d39955"/>
-    <text x="670" y="62" text-anchor="middle" fill="#6ee7b7" font-size="10">BUG DETECTOR</text>
-    <text x="670" y="82" text-anchor="middle" fill="#34d399" font-weight="bold" filter="url(#glow)">CAFFEINATED</text>
+    <rect x="600" y="40" width="170" height="55" rx="4" fill="#061020" stroke="#34d39955"/>
+    <text x="685" y="62" text-anchor="middle" fill="#6ee7b7" font-size="10">BUG DETECTOR</text>
+    <text x="685" y="82" text-anchor="middle" fill="#34d399" font-weight="bold" filter="url(#glow)">CAFFEINATED</text>
   </g>
-  <!-- scan line -->
-  <rect x="2" y="0" width="796" height="3" fill="#00f0ff" opacity="0.35">
-    <animate attributeName="y" values="2;115;2" dur="4s" repeatCount="indefinite"/>
-  </rect>
 </svg>
