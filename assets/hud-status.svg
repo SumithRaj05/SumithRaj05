@@ -1,27 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
-  <defs>
-    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a1628"/>
-      <stop offset="100%" stop-color="#050a12"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="798" height="118" rx="8" fill="url(#panel)" stroke="#00f0ff" stroke-width="1.5"/>
+  <rect x="1" y="1" width="798" height="118" rx="8" fill="#0a1628" stroke="#00f0ff" stroke-width="1.5"/>
   <rect x="12" y="12" width="8" height="8" fill="#00f0ff">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
-  <text x="28" y="22" fill="#00f0ff" font-family="Consolas,monospace" font-size="11" letter-spacing="2">HUD // STATUS</text>
+  <text x="28" y="22" fill="#00f0ff" font-family="Consolas,monospace" font-size="11" letter-spacing="2">SMRITI // STATUS</text>
   <g font-family="Consolas,monospace" font-size="13">
     <rect x="30" y="40" width="170" height="55" rx="4" fill="#061020" stroke="#00f0ff" stroke-opacity="0.35"/>
-    <text x="115" y="62" text-anchor="middle" fill="#7dd3fc" font-size="10">QA CORE</text>
+    <text x="115" y="62" text-anchor="middle" fill="#7dd3fc" font-size="10">SMRITI CORE</text>
     <text x="115" y="82" text-anchor="middle" fill="#00f0ff" font-weight="bold">ONLINE</text>
+
     <rect x="220" y="40" width="170" height="55" rx="4" fill="#061020" stroke="#ffb800" stroke-opacity="0.35"/>
     <text x="305" y="62" text-anchor="middle" fill="#fcd34d" font-size="10">LINUX</text>
     <text x="305" y="82" text-anchor="middle" fill="#ffb800" font-weight="bold">KERNEL OK</text>
+
     <rect x="410" y="40" width="170" height="55" rx="4" fill="#061020" stroke="#a78bfa" stroke-opacity="0.35"/>
-    <text x="495" y="62" text-anchor="middle" fill="#c4b5fd" font-size="10">AI MODULE</text>
-    <text x="495" y="82" text-anchor="middle" fill="#a78bfa" font-weight="bold">RAG HOT</text>
+    <text x="495" y="62" text-anchor="middle" fill="#c4b5fd" font-size="10">AI ENGINE</text>
+    <text x="495" y="82" text-anchor="middle" fill="#a78bfa" font-weight="bold">ACTIVE</text>
+
     <rect x="600" y="40" width="170" height="55" rx="4" fill="#061020" stroke="#34d399" stroke-opacity="0.35"/>
-    <text x="685" y="62" text-anchor="middle" fill="#6ee7b7" font-size="10">BUG DETECTOR</text>
+    <text x="685" y="62" text-anchor="middle" fill="#6ee7b7" font-size="10">BUILD MODE</text>
     <text x="685" y="82" text-anchor="middle" fill="#34d399" font-weight="bold">CAFFEINATED</text>
   </g>
 </svg>

@@ -1,16 +1,16 @@
 <!--
-  SumithRaj05 — JARVIS HUD profile
+  SumithRaj05 — SMRITI AI HUD profile
 -->
 
 <div align="center">
 
-<img src="./assets/hud-boot.svg" width="780" alt="HUD boot sequence"/>
+<img src="./assets/hud-boot.svg" width="780" alt="SMRITI boot sequence"/>
 
-<img src="./assets/hud-ident.svg" width="780" alt="HUD ident"/>
+<img src="./assets/hud-ident.svg" width="780" alt="SMRITI ident"/>
 
 <img src="./assets/hud-feed.svg" width="780" alt="LIVE FEED"/>
 
-<img src="./assets/hud-status.svg" width="780" alt="HUD status"/>
+<img src="./assets/hud-status.svg" width="780" alt="SMRITI status"/>
 
 <br/>
 
@@ -18,9 +18,9 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-ONLINE-00f0ff?style=for-the-badge&labelColor=05080f" alt="portfolio"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/SUIT-FOCUSING-ffb800?style=for-the-badge&labelColor=05080f" alt="status"/>
+<img src="https://img.shields.io/badge/AGENT-FOCUSING-ffb800?style=for-the-badge&labelColor=05080f" alt="status"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=SumithRaj05&style=for-the-badge&color=a78bfa&label=HUD+HITS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=SumithRaj05&style=for-the-badge&color=a78bfa&label=SMRITI+HITS" alt="views"/>
 
 <img src="./assets/hud-divider.svg" width="720" alt="divider"/>
 
@@ -41,45 +41,5 @@
     </td>
   </tr>
 </table>
-
-<img src="./assets/hud-divider.svg" width="720" alt="divider"/>
-
-<img src="./assets/label-ai.svg" width="780" alt="AI bay"/>
-
-<img src="./assets/hud-ai.svg" width="780" alt="AI arsenal"/>
-
-<br/>
-
-<a href="https://github.com/SumithRaj05/Rag_Ollama">
-  <img src="https://img.shields.io/badge/Rag_Ollama-ACTIVE-a78bfa?style=for-the-badge&labelColor=05080f" alt="Rag_Ollama"/>
-</a>
-&nbsp;
-<a href="https://github.com/SumithRaj05/Custom-RAG-Model">
-  <img src="https://img.shields.io/badge/Custom_RAG-ACTIVE-a78bfa?style=for-the-badge&labelColor=05080f" alt="Custom-RAG"/>
-</a>
-
-<img src="./assets/hud-divider.svg" width="720" alt="divider"/>
-
-<img src="./assets/label-projects.svg" width="780" alt="projects"/>
-
-<img src="./assets/hud-projects.svg" width="780" alt="projects HUD"/>
-
-<br/>
-
-<a href="https://github.com/SumithRaj05/ESP32_REST_API_Sensor_Server">
-  <img src="https://img.shields.io/badge/ESP32_Sensor-C++-00f0ff?style=for-the-badge&labelColor=05080f" alt="ESP32"/>
-</a>
-&nbsp;
-<a href="https://github.com/SumithRaj05/Registration-System-CPP">
-  <img src="https://img.shields.io/badge/Registration_CPP-C++-00f0ff?style=for-the-badge&labelColor=05080f" alt="Registration"/>
-</a>
-<br/>
-<a href="https://github.com/SumithRaj05/Desktop-UI">
-  <img src="https://img.shields.io/badge/Desktop_UI-React-ffb800?style=for-the-badge&labelColor=05080f" alt="Desktop-UI"/>
-</a>
-&nbsp;
-<a href="https://github.com/SumithRaj05/Authentication-CRUD-api">
-  <img src="https://img.shields.io/badge/Auth_CRUD_API-Node-ffb800?style=for-the-badge&labelColor=05080f" alt="Auth API"/>
-</a>
 
 </div>

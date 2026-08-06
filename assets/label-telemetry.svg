@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="48" viewBox="0 0 800 48">
   <rect width="800" height="48" fill="#05080f"/>
-  <line x1="0" y1="24" x2="260" y2="24" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1"/>
-  <line x1="540" y1="24" x2="800" y2="24" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1"/>
-  <rect x="270" y="8" width="260" height="32" rx="2" fill="#071018" stroke="#00f0ff" stroke-width="1"/>
-  <text x="400" y="29" text-anchor="middle" fill="#67e8f9" font-family="Consolas,monospace" font-size="13" letter-spacing="3">TELEMETRY GRID</text>
+  <line x1="0" y1="24" x2="240" y2="24" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1"/>
+  <line x1="560" y1="24" x2="800" y2="24" stroke="#00f0ff" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="250" y="8" width="300" height="32" rx="2" fill="#071018" stroke="#00f0ff" stroke-width="1"/>
+  <text x="400" y="29" text-anchor="middle" fill="#67e8f9" font-family="Consolas,monospace" font-size="13" letter-spacing="3">AGENT TELEMETRY</text>
 </svg>
