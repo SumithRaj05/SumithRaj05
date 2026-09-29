@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SumithRaj05&layout=compact&langs_count=8&title_color=00f0ff&text_color=cde7ff&bg_color=05080f&hide_border=true&border_radius=8" width="420" alt="langs"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SumithRaj05&layout=compact&langs_count=8&title_color=00f0ff&text_color=cde7ff&bg_color=05080f&hide_border=true&border_radius=8" width="780" alt="langs"/>
     </td>
   </tr>
 </table>
